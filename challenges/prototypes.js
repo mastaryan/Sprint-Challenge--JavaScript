@@ -6,6 +6,10 @@
   Create a constructor function named CuboidMaker that accepts properties for length, width, and height
 */
 
+// the code below is marked out due to CuboidMaker being defined already in the classes.js file. I didn't want any errors
+// while submitting. Code below 
+
+// Start of prototype code
 // function CuboidMaker(length, width, height) {
 //   this.length = length, 
 //   this.width = width,
@@ -26,7 +30,7 @@
   Formula for cuboid volume: length * width * height
 */
 
-//  See above for answer
+//  See above for answer!
 
 
 
@@ -36,7 +40,7 @@
   Formula for cuboid surface area of a cube: 2 * (length * width + length * height + width * height)
 */
 
-//  See above for answer
+//  See above for answer!
 
 
 /* == Step 4: Create a new object that uses CuboidMaker ==
